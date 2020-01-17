@@ -1,0 +1,17 @@
+
+ 
+       WELCOME TO DAVID'S TRADITIONAL FOODS PARLOUR
+
+                   OUR MENU IS AS FOLLOWS:
+
+ [1]Ugali   & beef     (Ugali   @ Ksh20,  Beef    @ Ksh80)     
+ [2]Matoke  & Matumbo  (Matoke  @ Ksh50,  Matumbo @ Ksh70)
+ [3]Mandazi & chai     (Mandazi @ Ksh5,   Chai    @ Ksh20)
+ [4]Rice    & ndegu    (Rice    @ Ksh50,  Ndegu   @ Ksh20)
+ [5]Pweza   & Supu     (Pweza   @ Ksh200, Supu    @ Ksh50)
+ [6]Chips   & Kuku     (Chips   @ Ksh50,  KuKu    @ Ksh200)
+ [7]Uji     & Mihogo   (Uji     @ Ksh30,  Mihogo  @ Ksh20)
+ [8]Githeri & Waru     (Githeri @ Ksh50,  Waru    @ Ksh30)
+ [9]Chapati & Beans    (Chapati @ Ksh20,  Beans   @ Ksh30)
+ [10]Pilau  & pork     (Pilau   @ Ksh60,  Pork    @ Ksh90)
+ 
